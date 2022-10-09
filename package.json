@@ -1,0 +1,38 @@
+{
+  "name": "generator-djs",
+  "version": "0.0.0",
+  "description": "A Yeoman generator for creating various bot templates",
+  "homepage": "",
+  "author": {
+    "name": "nk980113",
+    "email": "gtsteg123@gmail.com"
+  },
+  "files": [
+    "generators",
+    "templates",
+    "cache"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "yeoman-generator",
+    "discord-bot",
+    "djs",
+    "bot"
+  ],
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  },
+  "engines": {
+    "npm": ">= 4.0.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yeoman-generator": "^5.7.0",
+    "yosay": "^2.0.2"
+  },
+  "scripts": {
+    
+  },
+  "repository": "nk980113/generator-djs",
+  "license": "MIT"
+}
